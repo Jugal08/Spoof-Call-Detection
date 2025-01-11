@@ -70,6 +70,6 @@ To use the web app :
   
 ## V. Contributors
 
-- <a href="https://github.com/anshikabharwal" title="Profile"> Anshika Bharwal
-- <a href="https://github.com/krishnanarzary" title="Profile"> Krishna Narzary
-- <a href="https://github.com/tanishqv010" title="Profile"> Tanishq Verma
+- <a href="https://github.com/Jugal08" title="Profile"> Jugal Ramchiary
+- <a href="https://github.com/SudhanshuKCsit" title="Profile"> Sudhanshu Kumar
+
